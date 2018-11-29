@@ -3,7 +3,7 @@ An attempt to explore a list of 40,000 international football match results from
 ### Objective: What is the goal?
 
 ### Content: What does this repository contain?
-
+A Jupyter Notebook file containing analysis of the dataset.
 ### Result: What did we find?
 
 ### Resources 
