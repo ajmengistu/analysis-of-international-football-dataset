@@ -6,8 +6,8 @@ In progress ...
 ### Content: What does this repository contain?
 A Jupyter Notebook file containing analysis of the dataset.
 ### Result: What did we find?
-In progress ...
+
+More info to come ...
 ### Resources  
 The current dataset was forked from [https://kaggle.com/datasets]. The following is a link to the repository: [[https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017]]
 
- 
