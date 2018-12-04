@@ -8,6 +8,7 @@ A Jupyter Notebook file containing analysis of the dataset.
 #### Use
 Assuming one has Jupyter Notebook installed ([Link to install Jupyter Notebook](https://jupyter.org/install)).
 ```
+import pandas as pd
 
 ```
 ### Result: What did we find?
