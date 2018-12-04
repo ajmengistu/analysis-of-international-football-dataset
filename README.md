@@ -5,6 +5,11 @@ An attempt to explore a list of 40,000 international football match results from
 In progress ...
 ### Content: What does this repository contain?
 A Jupyter Notebook file containing analysis of the dataset.
+#### Use
+Assuming one has Jupyter Notebook installed ([Link to install Jupyter Notebook](https://jupyter.org/install)).
+```
+
+```
 ### Result: What did we find?
 
 More info to come ...
