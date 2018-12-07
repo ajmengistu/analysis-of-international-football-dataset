@@ -6,12 +6,13 @@ In progress ...
 
 ### Content: What does this repository contain? 
 A Jupyter Notebook file containing analysis of the dataset.
-#### Use
+### Installation
+To use this, first install Jupyter (note: Python must be installed)
+```
+pip install jupyter
+```
 Assuming one has Jupyter Notebook installed ([Link to install Jupyter Notebook](https://jupyter.org/install)).
-```
-import pandas as pd
 
-```
 ### Result: What did we find?
 
 More info to come ...
