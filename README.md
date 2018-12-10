@@ -9,6 +9,8 @@ A Jupyter Notebook file containing analysis of the dataset.
 To use this, first install Jupyter (note: Python must be installed)
 ```
 pip install jupyter
+
+import pandas
 ```
 Assuming one has Jupyter Notebook installed ([Link to install Jupyter Notebook](https://jupyter.org/install)).
 
